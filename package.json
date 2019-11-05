@@ -28,7 +28,7 @@
     "koa2-cors": "^2.0.6",
     "log4js": "^3.0.2",
     "mockjs": "^1.0.1-beta3",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "mysql": "^2.17.1",
     "pug": "^2.0.0-rc.1",
     "puppeteer": "^1.18.0",
