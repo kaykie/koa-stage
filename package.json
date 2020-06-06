@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "ali-oss": "^6.1.1",
-    "apollo-server-koa": "^2.4.8",
+    "apollo-server-koa": "^2.14.2",
     "debug": "^2.6.3",
     "formidable": "^1.2.1",
     "graphql": "^14.2.1",
